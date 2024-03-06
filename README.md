@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard ✨
+# E-Commerce Public Dashboard ✨
 
 ## Setup environment
 
